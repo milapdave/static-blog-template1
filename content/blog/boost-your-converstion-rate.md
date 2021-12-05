@@ -2,7 +2,7 @@
 template: blog-post
 title: Boost your conversion rate
 publishedDate: 2020-08-12T16:02:46.329Z
-description: <a>asdsad</a>
+description: <a>asasdasd</a>
 featured: true
 img: ../../static/images/beach-seagull.jpeg
 imgAlt: Do you see a sea gull?
